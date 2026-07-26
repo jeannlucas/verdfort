@@ -44,9 +44,9 @@ autenticação.
 2. **Sem cobertura**, por consequência.
 
 ## Vocabulário de domínio
-- **Hidrosemeadura** — técnica de plantio por aspersão de mistura com sementes,
+- **Hidrosemeadura**: técnica de plantio por aspersão de mistura com sementes,
   usada em talude e área extensa.
-- **Terraplanagem** — preparo e nivelamento de terreno.
+- **Terraplanagem**: preparo e nivelamento de terreno.
 
 ## Armadilhas conhecidas
 1. A conversão inteira depende do link de WhatsApp. Mexer em CTA sem testar o
